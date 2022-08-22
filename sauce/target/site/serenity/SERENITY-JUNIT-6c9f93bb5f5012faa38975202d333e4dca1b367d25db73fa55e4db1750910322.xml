@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="realiza una compra exitosa" skipped="0" tests="1" time="0.41" timestamp="2022-08-19 06:08:33"><testcase name="compra de usuario exitosa"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.sofka.commons.CommonActionsOnPage.scrollOn(CommonActionsOnPage.java:64)&#13;
+co.com.sofka.pages.checkoutPages.CheckoutSuccessCasesPage.fillCheckoutSuccess(CheckoutSuccessCasesPage.java:12)&#13;
+co.com.sofka.definitions.checkout.CheckoutSuccessDefinition.realizaLosPasosParaElPagoSatisfactorio(CheckoutSuccessDefinition.java:36)&#13;
+✽.realiza los pasos para el pago satisfactorio(file:///C:/Users/pdval/Desktop/automatizaion/automationSauceProyect/sauce/src/test/resources/features/checkout/checkout_success.feature:8)&#13;
+</system-err></testcase></testsuite>
